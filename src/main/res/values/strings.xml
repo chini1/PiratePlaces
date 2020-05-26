@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pirate Places</string>
+    <string name="Pirate_Place">Pirate_Place</string>
+    <string name="Previous_button">Previous</string>
+    <string name="Next_button">Next</string>
+    <string name="Check_button">CHECKIN</string>
+    <string name="Check_place_ScTech">ScTechBuilding</string>
+    <string name="Check_place_Library">Library</string>
+    <string name="Check_place_Monument">Washington Monument</string>
+    <string name="Pirate_place_ScTech">ScTechBuilding</string>
+    <string name="Pirate_place_Library">Library</string>
+    <string name="Pirate_place_Monument">Washington Monument</string>
+
+    <string name="Pirate_person_ScTech">Roger</string>
+    <string name="Pirate_person_Library">Sally</string>
+    <string name="Pirate_person_Monument">Rebecca</string>
+    <string name="Next_toast">You are already on the last place!</string>
+    <string name="Prev_toast">You are already on the first place!</string>
+    <string name="Check_toast">You have already Checked In!</string>
+    <string name="Status">Cheched_In</string>
+    <string name="Pirate">Not Check In</string>
+    _
+</resources>
